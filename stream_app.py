@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('I'm Sandy Jone')
+streamlit.title('Sandy Jones')
